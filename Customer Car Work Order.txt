@@ -1,0 +1,33 @@
+Writer : Mokwon University 1760050 JoyoungMin 
+Department of Information and Communication Convergence Engineering
+
+
+
+Car Name : Sonata
+Vehicle number : 00X0868
+mileage : 72,000
+Registration year/month : 2016.06.13
+Maintenance request date : 2021.06.19
+Maintenance registration number : 01-0026-025566
+Business license number : 305-25-54265
+Inspection completion date : 2021.06.20
+Release date : 2021.06.20
+Maintenance Officer : Joy oung min
+auto repair shop : Hyundai Motors
+Representative : Jo young min
+Worker : Jo young min
+Part Name : SHAFT DRIVE (R)
+Part a price : 220,000\
+Labor cost : 162,000\
+Part Name : Bolt
+Part a price : 1,200\
+Labor cost : 0\
+Part Name : Nut (R)
+Part a price : 3,400\
+Labor cost : 0\
+
+Task Contents : SHAFT DRIVE Assemblies, Daejeon C course commissioning
+
+
+
+
